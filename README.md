@@ -31,7 +31,7 @@ If you want to run classical MolGAN, please set quantum argument to False. But y
 
 
 ## Demo
-You can see generated small molecules with pretrined models which are included in qgan-hg/models. Quantum circuit parameters are shown in gen_weights.csv. Inference can be done on either PennyLane quantum simulator or real IBM quantum computers.
+You can see generated small molecules with pretrined models which are included in qgan-.../models. Quantum circuit parameters are shown in quantum_weights_{model}.csv.
 
 ```
 comparison-demo.ipynb
@@ -39,7 +39,7 @@ comparison-demo.ipynb
 Below are some generated molecules:
 
 <div style="color:#0000FF" align="center">
-<img src="molecules/mol1.png" width="430"/> 
-<img src="molecules/mol2.png" width="430"/>
+<img src="molecules/mol3.png" width="430"/> 
+<img src="molecules/mol4.png" width="430"/>
 </div>
 
